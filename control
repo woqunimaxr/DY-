@@ -1,8 +1,8 @@
-Package: com.huami.ddyenablepanelmodernstyle
+Package: com.huami.dyenablepanelmodernstyle
 Name: DYEnablePanelModernStyle
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: 强制启用新版抖音长按 UI（现代风）
 Maintainer: huami
 Author: huami
 Section: Tweaks
