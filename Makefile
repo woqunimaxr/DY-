@@ -21,6 +21,8 @@ endif
 export DEBUG = 0
 INSTALL_TARGET_PROCESSES = Aweme
 
+PACKAGE_VERSION = 1.1
+
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = DYEnablePanelModernStyle
